@@ -4,7 +4,7 @@ English | [简体中文](README_zh-CN.md)
 
 <img src="./docs/images/banner.png" width="320px"  alt="PDF2ZH"/>  
 
-<h2 id="title">PDFMathTranslate</h2>
+<h2 id="title">PDFMathTranslate</h2>sd
 
 <p>
   <!-- PyPI -->
